@@ -1,0 +1,4 @@
+<a class='exe'>api</a> - Show API guide for `geta6.net`.
+
+http://geta6.net/api?cmd=something%20command%20here
+Return result by text/plain.
